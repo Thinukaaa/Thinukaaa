@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Thinukaaa
-- 👀 I’m interested in IT and software developement
-- 🌱 I’m currently following a SE Degree 
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me email: thiyasarathinuka@gmail.com
-- ⚡ Fun fact: 1+1=2 
+Hi, I'm Thinuka Thiyasara! 👋
+Software Engineering Undergraduate passionate about coding and problem-solving. 🎓 
+Skilled in various programming languages and frameworks, including Python, Java, HTML, C#, PHP, JavaScript, ASP.NET, and React.js. 💻 
+Currently working on projects that merge AI and software development to create impactful solutions.🚀 
+
+Reach me at: thiyasarathinuka@gmail.com
 
 <!---
 Thinukaaa/Thinukaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
